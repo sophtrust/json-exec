@@ -8,13 +8,7 @@ and utilizes [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0
 
 No unreleased changes
 
-## v0.6.2 (2021-10-02)
-
-### Notes
-
-* Updated to newest version of `go.sophtrust.dev/pkg/zerolog` library.
-
-## v0.5.0 (2021-05-12)
+## v0.1.0 (2022-01-19)
 
 ### Notes
 - Initial release of the application

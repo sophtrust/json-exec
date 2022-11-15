@@ -3,7 +3,7 @@ package config
 import (
 	"strings"
 
-	"go.sophtrust.dev/pkg/zerolog/log"
+	"go.sophtrust.dev/pkg/zerolog/v2/log"
 )
 
 // defaultLogWriter is just a wrapper so we can catch any messages from internal libraries that use the

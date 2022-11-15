@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"go.sophtrust.dev/pkg/zerolog"
-	"go.sophtrust.dev/pkg/zerolog/log"
+	"go.sophtrust.dev/pkg/zerolog/v2"
+	"go.sophtrust.dev/pkg/zerolog/v2/log"
 	"gopkg.in/yaml.v3"
 )
 

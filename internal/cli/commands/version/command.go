@@ -7,7 +7,7 @@ import (
 	"go.sophtrust.dev/json-exec/internal/app"
 	"go.sophtrust.dev/json-exec/internal/config"
 	"go.sophtrust.dev/json-exec/internal/errors"
-	"go.sophtrust.dev/pkg/zerolog/log"
+	"go.sophtrust.dev/pkg/zerolog/v2/log"
 )
 
 // Command is the object for executing the actual command

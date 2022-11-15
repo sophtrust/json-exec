@@ -9,7 +9,7 @@ import (
 
 	"github.com/fsnotify/fsnotify"
 	"github.com/spf13/viper"
-	"go.sophtrust.dev/pkg/zerolog/log"
+	"go.sophtrust.dev/pkg/zerolog/v2/log"
 	"gopkg.in/yaml.v3"
 )
 

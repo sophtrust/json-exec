@@ -1,6 +1,6 @@
 package config
 
-import "github.com/rs/zerolog"
+import "go.sophtrust.dev/pkg/zerolog/v2"
 
 const (
 	// DefaultConfigFolder is the name of the config folder in the user's home directory.

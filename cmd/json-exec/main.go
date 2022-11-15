@@ -5,8 +5,8 @@ import (
 	"os"
 
 	"go.sophtrust.dev/json-exec/internal/cli"
-	"go.sophtrust.dev/pkg/zerolog"
-	"go.sophtrust.dev/pkg/zerolog/log"
+	"go.sophtrust.dev/pkg/zerolog/v2"
+	"go.sophtrust.dev/pkg/zerolog/v2/log"
 )
 
 func main() {
